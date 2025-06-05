@@ -13,3 +13,5 @@ After embedding i used cosine similarity to findout the similarity between each 
 ## Exp2 - (about)
 
 In experiment2 I use the same embedding model used in experiment1 and take 5 words and their translated version in the same 5 langauge in experiment1 and then embedd them to see for each word how similar the embeddings are using both cosine similarity and various graphs where I plot raw embeddings and compare .
+
+### MORE EXPERIMENTS TO BE ADDED
